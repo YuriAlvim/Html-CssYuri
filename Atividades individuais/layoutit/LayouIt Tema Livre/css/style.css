@@ -1,0 +1,43 @@
+.antes{
+    display: flex;
+    align-items: center;
+    margin-left: 33.5em;
+    
+}
+
+.cor{
+    background-color: rgb(255, 233, 208);
+}
+
+.espaco{
+    margin-right: 5em;
+}
+
+.lu{
+    text-align: center;
+    list-style: none;
+}
+
+.lo{
+    text-align: center;
+    list-style: none;
+}
+
+.lista{
+   padding: 0;
+}
+
+.sub {
+    margin: 0;
+}
+
+.foto{
+    height: 15em;
+    width: 15em;
+   
+}
+
+.mais{
+    height: 10em;
+    
+}
